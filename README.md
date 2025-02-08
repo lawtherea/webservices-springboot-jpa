@@ -19,4 +19,5 @@
 </ul>
 
 <h2>Modelo Conceitual</h2>
+
 ![Capturar](https://github.com/user-attachments/assets/e967766d-76ed-4bb5-8e03-b2744e2a0c4c)
